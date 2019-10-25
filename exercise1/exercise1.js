@@ -5,12 +5,9 @@
 // HINTS:
 // import the libraries you need first
 // use one of the libraries to render some JSX to the page
-
-
-
-import React from "react"
+ import React from "react"
 import ReactDOM from 'react-dom'
- 
+
 function MyApp () {
     return (
         <ul>
