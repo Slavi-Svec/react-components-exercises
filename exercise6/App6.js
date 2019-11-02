@@ -25,6 +25,6 @@ function App () {
         </div>
     )
 }
-export default App6 
+export default App6
 
 

@@ -7,5 +7,5 @@ function Jokes (props) {
             <h3> answers </h3>
         </div>
     )
-} 
-export defalut Jokes
+}
+export defalut Jokes 
